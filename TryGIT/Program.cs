@@ -14,6 +14,8 @@ namespace TryGIT
         public static void Main(string[] args)
         {//changes has been made herer
         //yuLiang Branch Release changes
+
+    //Development release YuLiang
             CreateHostBuilder(args).Build().Run();
         }
 
