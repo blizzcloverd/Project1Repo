@@ -12,7 +12,7 @@ namespace TryGIT
     public class Program
     {
         public static void Main(string[] args)
-        {
+        {//changes has been made herer
             CreateHostBuilder(args).Build().Run();
         }
 
